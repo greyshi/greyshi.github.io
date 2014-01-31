@@ -48,13 +48,13 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Menlo, Monaco, "Courier New", monospace;
   font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 38rem) {
   html {
-    font-size: 20px;
+    font-size: 19px;
   }
 }
 
@@ -85,15 +85,15 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.45rem;
 }
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 1.3rem;
+  font-size: 1.15rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -202,6 +202,7 @@ blockquote p:last-child {
 
 img {
   display: block;
+  max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
@@ -361,7 +362,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Menlo, Monaco, "Courier New", monospace;
   color: #ccc;
   text-align: center;
 }
