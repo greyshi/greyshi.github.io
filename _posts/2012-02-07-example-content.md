@@ -3,7 +3,10 @@ layout: post
 title: Example content
 ---
 
-This blog post shows a few different types of content that's supported and styled with Hyde. Basic typography, images, and code are all supported.
+I really decided to keep this post here to link to the song at the bottom. Good song time for you.
+
+
+This blog post shows a few different types of content that's supported. Basic typography, images, and code are all supported.
 
 -----
 
@@ -52,4 +55,4 @@ Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at
 
 -----
 
-Want to see something else added? <a href="https://github.com/mdo/hyde/issues/new">Open an issue.</a>
+[Breezeblocks](http://www.youtube.com/watch?v=rVeMiVU77wo)
