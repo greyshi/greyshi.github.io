@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Calendars to Manage Deadlines"
+title:  Using Calendars to Manage Deadlines
 date:   2013-09-10 22:01:00
 categories: Productivity
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building Amazon Instant at HackTX"
+title: Building Amazon Instant at HackTX
 date:   2013-11-17 18:59:00
 categories: Software
 ---

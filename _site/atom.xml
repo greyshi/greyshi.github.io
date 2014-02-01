@@ -4,13 +4,44 @@
  <title>Arash Ghoreyshi</title>
  <link href="http://blog.greyshi.com/atom.xml" rel="self"/>
  <link href="http://blog.greyshi.com/"/>
- <updated>2014-01-31T23:23:50-06:00</updated>
+ <updated>2014-02-01T01:38:25-06:00</updated>
  <id>http://blog.greyshi.com</id>
  <author>
    <name>Arash Ghoreyshi</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Why I Switched to Jekyll</title>
+   <link href="http://blog.greyshi.com/software/2014/01/31/why-i-switched-to-jekyll/"/>
+   <updated>2014-01-31T23:51:00Z</updated>
+   <id>http://blog.greyshi.com/software/2014/01/31/why-i-switched-to-jekyll</id>
+   <content type="html">&lt;p&gt;I tweaked and refined my &lt;a href=&quot;http://old.greyshi.com&quot;&gt;first website&lt;/a&gt; for months to get it just right, but last night, after discovering
+&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, I decided to throw it all away and replace it with something new and shiny.&lt;/p&gt;
+
+&lt;p&gt;Jekyll sites can be &lt;a href=&quot;https://github.com/greyshi/greyshi.github.io&quot;&gt;hosted on Github&lt;/a&gt; for free with no usage limits. Can&amp;#39;t say the same for my old
+Heroku setup. I still love Heroku, but traffic spikes will kill you if you&amp;#39;re on the free tier. Also, deploying
+is even simpler than before. I didn&amp;#39;t know that was possible, but you can&amp;#39;t really beat &amp;quot;what lives in your GitHub repo is on the site.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;I don&amp;#39;t have all the functionality I had on my old site on this one, but I love the minimalism I get in exchange.
+In fact, the minimalism is the main reason I made the switch. I&amp;#39;ve really liked blogging on &lt;a href=&quot;https://medium.com/@ashgreyshi&quot;&gt;Medium&lt;/a&gt; for
+my Software Engineering class so far. It&amp;#39;s been zen. After finding this simple layout for Jekyll and changing the
+font to something that&amp;#39;s both unorthodox and awesome, it was over. Guess I can&amp;#39;t resist simple, attractive design.&lt;/p&gt;
+
+&lt;p&gt;While Medium&amp;#39;s blog post editor is as zen as the posts themselves, the editor for Jekyll is whatever you want it
+to be. Posts are just markdown text files, and Jekyll converts them to static web pages under the hood. My setup
+is &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;sublime&lt;/a&gt;. Side note: if I was a rapper, no one would catch my double entendres. Anyways, here&amp;#39;s how
+it looks right now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://copy.com/A00RwYhkqD3Z9frM&quot; alt=&quot;editor&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ll end this by addressing my old site. Have a long and happy retirement. I learned Django and Bootstrap and a
+bit of Web design from you. We spent the end of the summer together, and you will always be in my heart.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=1J3-ZOdp3g0&quot;&gt;Yes! I Am A Long Way From Home&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Building Amazon Instant at HackTX</title>

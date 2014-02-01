@@ -47,32 +47,32 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/productivity/2013/09/10/using-calendars-to-manage-deadlines/">
-        Using Calendars to Manage Deadlines
+      <a href="/software/2013/11/17/building-amazon-instant-at-hacktx/">
+        Building Amazon Instant at HackTX
       </a>
     </h1>
 
-    <span class="post-date">10 Sep 2013</span>
+    <span class="post-date">17 Nov 2013</span>
 
-    <p>All through my education I&#39;ve dreaded keeping up with assignment due dates and when my next exam is. It always felt as if I was forgetting something and that I&#39;d suffer if I did. This hardly ever actually happened, but I was tired of keeping up with these things and decided I wanted technology to remember for me.</p>
+    <p>This weekend at <a href="http://hacktx.com">HackTX</a> I experienced my first full-fledged hackathon. I didn&#39;t have a group or even an idea going into it, but I learned a lot and came out of it with something I was proud of. Check out <a href="http://amz.greyshi.com">Amazon Instant</a>!</p>
 
-<p>Allow me to reintroduce you to your calendar app. I use google calendar integrated with my OSX calendar app, but either by itself will work fine. You might be thinking, &quot;I already use calendars, and I&#39;m not about to schedule tasks I want to accomplish on there because they don&#39;t happen at a set time and I don&#39;t want to pollute my pure, beautiful calendar.&quot; Well, I can&#39;t really blame you because I felt the same way at one point in my life. The trick, however, is to create an all-day event for each task!</p>
+<p>I ended up finding a group of a couple guys that already had an idea. The idea was almost as hard to explain as it was to build, but I&#39;ll give it a shot. They wanted to build an essay templating system that generated essays from skeletons based on some key topic. For instance, if the subject of one essay was Microsoft, you could transform it into an essay about Apple. Markov chains were mentioned (eek). It took me a little while to convince them that this wasn&#39;t the best idea. For one thing, essays tend to be tailored to the subject too closely to simply swap the subject and rebuild. Also, the fact that both essays and information sources such as Wikipedia are unstructured makes the task pretty much impossible to finish within 24 hours.</p>
 
-<p>All-day events show up at the top of the calendar. Here&#39;s a part of my week:</p>
+<p>Now we had to come up with a new idea. A website called <a href="http://ytinstant.com">YouTube Instant</a> came to mind. I had seen it a couple weeks ago and thought it was a cool idea, and it seemed pretty simple to make. It loaded a YouTube video relevant to your search term in real-time. The creator of that site was inspired by <a href="http://www.google.com/insidesearch/features/instant/about.html">Google Instant</a>, and I thought we could continue that chain of inspiration. Doing this was also a chance to learn how to make dynamic web pages. I looked through my bookmarks and a few candidates came to mind, including Twitter, Reddit, Netflix, and Amazon. We decided on Amazon and the initial name was Impulse Buy. When using the site you could start with something general and get more specific as you watched the items appearing follow suit.</p>
 
-<p><img src="https://copy.com/qDV1f3X08T0D" alt="Mac Calendar"></p>
+<p>By the time we started making real progress, the group had shrunk to just me and another guy. Luckily, he had some experience using javascript. After hacking at it for a little while we were able to use Amazon&#39;s product API and AngularJS to get relevant items back as we typed. Unfortunately, there was a problem in that we would often get a bad response from Amazon. We soon found that we were being throttled because Amazon&#39;s API has an upper limit of one request per second for each API key. This was really bad for us since we were making a request every time a user entered in a new character. We turned to other website APIs, but they all either had similar limits or were bad choices for other reasons. Plus, we had already put some work into using Amazon&#39;s API.</p>
 
-<p>As you can see, I&#39;ve got a view of everything I need to keep track of in one place. If you want to be reminded of an upcoming task, setting that up is as easy as editing the event and adding an alert. No need to go through the reminders app.</p>
+<p>We spent some time considering possible solutions or workarounds. We failed to find a real solution, but we did a couple of things to make it useable at a very small scale. One of those things was to alternate between two different Amazon API keys with every request, giving us two requests per second. We&#39;d probably use more than two keys if Amazon didn&#39;t require credit card information for registration. This was super hacky, but hey, this was a hackathon. The second thing we did was set an interval between requests rather than query Amazon after every user input update. 600ms worked pretty well.</p>
 
-<p>Another beautiful things is that I can see what&#39;s on my plate anywhere I am as long as I&#39;ve got my phone with me. Here&#39;s what tomorrow looks like:</p>
+<p>After a few more hours we had a site that worked for a couple people at a time, which was enough for a demo. While some groups hacked for the full 24 hours, we didn&#39;t have high expectations in terms of winning the competition, so we went home to sleep for a bit.</p>
 
-<p><img src="https://copy.com/fzzjcOZJs0ET" alt="iPhone Calendar"></p>
+<p>We met back around noon, added some polish to the site, and went on to the first round. We knew we were competing with teams of five who knew exactly what they were going to work on from the start, so we didn&#39;t expect to win. We were right about that.</p>
 
-<p>I&#39;ve got a few things due tomorrow, and two of them are writing assignments. I guess writing that essay thirty minutes ago got me in the mood to make this blog post.</p>
+<p>It was great seeing what some of the teams had created in such a short time. The first prize winners made a game like Guitar Hero, but it revolved around whistling. Another group made a peer-to-peer file sharing application that worked within a web browser.</p>
 
-<p>Now, my people, go forth and schedule every task can get your hands on!</p>
+<p>I went home inspired to make our project better. It&#39;s a huge bummer that it can&#39;t get any widespread use because of Amazon&#39;s throttling, but it&#39;s still cool and I learned a lot making it. Maybe one day there&#39;ll be a real workaround that makes it viable. For now, give it a try, and don&#39;t worry about getting throttled; I don&#39;t get much traffic. <a href="http://amz.greyshi.com">amz.greyshi.com</a></p>
 
-<p><a href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=xWvWDu6IAyY#t=30">Fuck Your Ethnicity</a></p>
+<p><a href="http://www.youtube.com/watch?v=bpOSxM0rNPM">Do I Wanna Know?</a></p>
 
   </div>
   
