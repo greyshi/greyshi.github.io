@@ -15,7 +15,7 @@ is even simpler than before. I didn't know that was possible, but you can't real
 I don't have all the functionality I had on my old site on this one, but I love the minimalism I get in exchange.
 In fact, the minimalism is the main reason I made the switch. I've really liked blogging on [Medium][medium] for
 my Software Engineering class so far. It's been zen. After finding this simple layout for Jekyll and changing the
-font to something that's both unorthodox and awesome, it was over. Guess I can't resist simple, attractive design.
+font to something that's both unorthodox and awesome, it was over. Guess I can't resist simple design.
 
 While Medium's blog post editor is as zen as the posts themselves, the editor for Jekyll is whatever you want it
 to be. Posts are just markdown text files, and Jekyll converts them to static web pages under the hood. My setup
@@ -35,7 +35,7 @@ bit of Web design from you. We spent the end of the summer together, and you wil
 [github]: https://github.com/greyshi/greyshi.github.io
 [medium]: https://medium.com/@ashgreyshi
 [sublime]: http://www.sublimetext.com/
-[editor]: https://copy.com/A00RwYhkqD3Z9frM
+[editor]: /assets/images/sublime_post_editing.png
 [mogwai]: http://www.youtube.com/watch?v=1J3-ZOdp3g0
 
 
