@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: Menlo, Consolas, "Ubuntu Mono", Monaco, monospace;
+  font-family: Menlo, "Ubuntu Mono", Monaco, Consolas, monospace;
   font-size: 15px;
   line-height: 1.5;
 }
