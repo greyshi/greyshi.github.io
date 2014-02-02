@@ -26,6 +26,6 @@ Now, my people, go forth and schedule every task can get your hands on!
 [Fuck Your Ethnicity][3]
 
 
-  [1]: https://copy.com/qDV1f3X08T0D
-  [2]: https://copy.com/fzzjcOZJs0ET
+  [1]: /assets/images/mac_calendar.png
+  [2]: /assets/images/iphone_calendar.png
   [3]: http://www.youtube.com/watch?feature=player_detailpage&v=xWvWDu6IAyY#t=30
