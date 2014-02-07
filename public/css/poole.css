@@ -48,9 +48,10 @@ body {
 }
 
 html {
-  font-family: Menlo, "Ubuntu Mono", Monaco, Consolas, monospace;
+  font-family: "Menlo", "Ubuntu Mono", Monaco, Consolas, monospace;
   font-size: 15px;
   line-height: 1.5;
+  font-weight: 400;
 }
 @media (min-width: 38rem) {
   html {
