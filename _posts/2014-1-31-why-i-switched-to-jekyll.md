@@ -19,8 +19,8 @@ font to something that's both unorthodox and awesome, it was over. Guess I can't
 
 While Medium's blog post editor is as zen as the posts themselves, the editor for Jekyll is whatever you want it
 to be. Posts are just markdown text files, and Jekyll converts them to static web pages under the hood. My setup
-is [sublime][sublime]. Side note: if I was a rapper, no one would catch my double entendres. Anyways, here's how
-it looks right now.
+is [sublime][sublime]. Here's how it looks.
+
 
 ![editor][editor]
 
