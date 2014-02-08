@@ -48,14 +48,14 @@ body {
 }
 
 html {
-  font-family: "Menlo", "Ubuntu Mono", Monaco, Consolas, monospace;
-  font-size: 15px;
+  font-family: "Ubuntu Mono", "Menlo", Monaco, Consolas, monospace;
+  font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
 }
 @media (min-width: 38rem) {
   html {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
@@ -148,7 +148,7 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: "Ubuntu Mono", "Menlo", Monaco, Consolas, monospace;
 }
 code {
   padding: .25em .5em;
@@ -277,7 +277,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -363,7 +363,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: "Ubuntu Mono", "Menlo", Monaco, Consolas, monospace;
   color: #ccc;
   text-align: center;
 }
