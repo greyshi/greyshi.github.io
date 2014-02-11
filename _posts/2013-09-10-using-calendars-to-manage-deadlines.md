@@ -2,7 +2,7 @@
 layout: post
 title:  Using Calendars to Manage Deadlines
 date:   2013-09-10 22:01:00
-categories: Productivity
+categories: Productivity Software
 ---
 All through my education I've dreaded keeping up with assignment due dates and when my next exam is. It always felt as if I was forgetting something and that I'd suffer if I did. This hardly ever actually happened, but I was tired of keeping up with these things and decided I wanted technology to remember for me.
 

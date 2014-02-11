@@ -3,6 +3,7 @@ layout: default
 title: about
 ---
 
+#{{ page.title }}
 I'm a software developer mainly interested in designing and building web applications.
 Currently enjoying my last few months as a college student at [UT Austin][ut].
 
