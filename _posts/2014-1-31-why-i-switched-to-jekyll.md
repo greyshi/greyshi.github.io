@@ -27,6 +27,7 @@ is [sublime][sublime]. Here's how it looks.
 I'll end this by addressing my old site. Have a long and happy retirement. I learned Django and Bootstrap and a
 bit of Web design from you. We spent the end of the summer together, and you will always be in my heart.
 
+----
 [Yes! I Am A Long Way From Home][mogwai]
 
 

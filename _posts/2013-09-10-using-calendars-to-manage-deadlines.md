@@ -23,6 +23,7 @@ I've got a few things due tomorrow, and two of them are writing assignments. I g
 
 Now, my people, go forth and schedule every task can get your hands on!
 
+----
 [Fuck Your Ethnicity][3]
 
 
