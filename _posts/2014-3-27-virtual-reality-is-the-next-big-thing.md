@@ -18,3 +18,8 @@ I won't get into the specifics of our experiment, but it involved using our fing
 Before experiencing it for myself, I thought of virtual reality as something that would exist in the distant future. Now I'm more optimistic. There are obvious downsides to Oculus' acquisition, but I think the positives outweigh the negatives thanks to competition, which makes the negatives irrelevant for the most part. Sure, Facebook could turn the focus of the Rift to social networking, but that doesn't matter much when there are developer-friendly companies like Valve in the mix who are sitting on money piles of their own.
 
 Early investors in Oculus' Kickstarter campaign have a right to be upset, but the truth of the matter is that Facebook's money and resources will help the technology by raising the bar, forcing competition to keep up. Virtual reality is awesome, and the technology to make it happen already exists. It's only a matter of time, money, and talent until it's in our hands. I'm looking forward to experiencing a full version of the Matrix in my lifetime. Maybe I'll come back and read this post from a virtual world.
+
+-----
+[Genesis][grimes]
+
+[grimes]: https://www.youtube.com/watch?v=1FH-q0I1fJY#t=71
