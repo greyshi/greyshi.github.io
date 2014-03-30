@@ -8,6 +8,7 @@ title: about
 ---
 
 **name**: arash  
+**pronunciation**: are + ash  
 **age**: 21  
 **gender**: male  
 **height**: 6'1  
