@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Virtual Reality is the Next Big Thing
+title: Virtual Reality is Around the Corner
 date:   2014-03-28 22:42:00
 categories: Technology
 ---
 
-And Facebook can't ruin it. A couple days ago I was introduced to virtual reality first-hand. Coincidentally, on the same day I witnessed the buzz generated around virtual reality thanks to Facebook's acquisition of Oculus Rift, the front-runner in the field. Some people think of this acquisition as a crippling blow to the emergence of the technology, but after experiencing the digital world, I'm convinced that nothing will stop virtual reality from blowing up (in a good way). There will be a market for it, so if Facebook ruins Oculus with annoying ads and mandatory integration with their social network, competition will be there to reap in all those annoyed customers.
+And Facebook can't hold it back. A couple days ago I was introduced to virtual reality first-hand. Coincidentally, on the same day I witnessed the buzz generated around virtual reality thanks to Facebook's acquisition of Oculus Rift, the front-runner in the field. Some people think of this acquisition as a crippling blow to the emergence of the technology, but after experiencing the digital world, I'm convinced that nothing will stop virtual reality from blowing up (in a good way). There will be a market for it, so if Facebook ruins Oculus with annoying ads and mandatory integration with their social network, competition will be there to reap in all those annoyed customers.
 
 It would be an understatement to say that I wasn't expecting to be blown away during my lab session for my Computational Brain class. I arrived ten minutes late to the scene of a girl wearing a spandex bodysuit with red LED's all over it and the large helmet she had on. Next to her was my TA for the class, who was standing in front of a computer with three monitors. One was being used normally, but the other two were right next to each other and displayed the view of a room that changed fluidly respective to the movements of the girl in the suit. I was looking at her visual field in the virtual world that consisted of a dojo reminiscent of the one in which Morpheus fights Neo in the Matrix. I was more than happy to find that I'd get to try on the suit as well. I'd finally get to enter the Matrix.
 

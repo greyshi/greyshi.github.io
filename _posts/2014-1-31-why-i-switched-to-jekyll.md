@@ -8,7 +8,7 @@ categories: Software
 I tweaked and refined my [first website][old] for months to get it just right, but last night, after discovering
 [Jekyll] [jekyll], I decided to throw it all away and replace it with something new and shiny.
 
-Jekyll sites can be [hosted on Github][github] for **free** with **no usage limits**. Can't say the same for my old
+Jekyll sites can be hosted on Github for **free** with **no usage limits**. Can't say the same for my old
 Heroku setup. I still love Heroku, but traffic spikes will kill you if you're on the free tier. Also, deploying
 is **even simpler** than before. I didn't know that was possible, but you can't really beat "what lives in your GitHub repo is on the site."
 
@@ -33,7 +33,6 @@ bit of Web design from you. We spent the end of the summer together, and you wil
 
 [old]: http://old.greyshi.com
 [jekyll]: http://jekyllrb.com
-[github]: https://github.com/greyshi/greyshi.github.io
 [medium]: https://medium.com/@ashgreyshi
 [sublime]: http://www.sublimetext.com/
 [editor]: /assets/images/sublime_post_editing.png
