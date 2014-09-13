@@ -1,6 +1,5 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
 
 # Permalinks
 permalink:        /:categories/:title/
@@ -10,7 +9,7 @@ title:            Arash Ghoreyshi
 tagline:          'blog'
 description:      'gang star fashion killa'
 url:              http://greyshi.com
-timezone: America/Chicago
+timezone: US/Pacific
 
 author:
   name:           'Arash Ghoreyshi'
