@@ -3,7 +3,7 @@ layout: default
 title: about
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 ---
 
