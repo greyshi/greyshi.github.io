@@ -16,9 +16,10 @@ Rainier's amazing [Skyline Trail Loop][0] on the 4th of July with my sister [laz
   ![7]
   ![8]
   ![9]
+  ![10]
 
 ----
-[Yes I'm Changing][10]
+[Yes I'm Changing][11]
 
 
   [0]: http://www.wta.org/go-hiking/hikes/skyline
@@ -31,5 +32,6 @@ Rainier's amazing [Skyline Trail Loop][0] on the 4th of July with my sister [laz
   [7]: /assets/images/paradise/7.jpg
   [8]: /assets/images/paradise/8.jpg
   [9]: /assets/images/paradise/9.jpg
-  [10]: https://www.youtube.com/watch?v=wQL363-O_yw
+  [10]: /assets/images/paradise/10.jpg
+  [11]: https://www.youtube.com/watch?v=wQL363-O_yw
   [lazuli]: https://www.youtube.com/watch?v=S-a99Ds3NHI

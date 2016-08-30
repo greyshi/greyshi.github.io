@@ -15,6 +15,9 @@ author:
   name:           'Arash Ghoreyshi'
   url:            https://twitter.com/ashgreyshi
 
+# Gems
+gems: [jekyll-paginate]
+
 paginate:         1
 
 # Custom vars
