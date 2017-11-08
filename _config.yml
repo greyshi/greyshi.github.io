@@ -10,10 +10,10 @@ timezone: US/Pacific
 
 author:
   name:           'Arash Ghoreyshi'
-  url:            https://twitter.com/ashgreyshi
+  url:             http://greyshi.com
 
-# Gems
-gems: [jekyll-paginate]
+# Plugins
+plugins: [jekyll-paginate]
 
 paginate:         1
 
