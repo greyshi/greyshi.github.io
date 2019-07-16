@@ -9,10 +9,10 @@ title: about
 
 **name**: arash  
 **pronunciation**: are + ash  
-**age**: twenties  
+**age**: late twenties  
 **location**: seattle  
 **job**: software developer  
-**music**: hip hop, alternative / indie rock, classical, jazz
+**music**: hip hop, alternative / indie rock, classical, jazz  
 **burrito**: brown rice, black beans, extra fajita veggies, pico + medium salsa, chicken, a little cheese, and guacamole
 
 ---
