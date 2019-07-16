@@ -33,5 +33,5 @@ Rainier's amazing [Skyline Trail Loop][0] on the 4th of July with my sister [laz
   [8]: /assets/images/paradise/8.jpg
   [9]: /assets/images/paradise/9.jpg
   [10]: /assets/images/paradise/10.jpg
-  [11]: https://www.youtube.com/watch?v=wQL363-O_yw
+  [11]: https://www.youtube.com/watch?v=6XKQy9HM23c
   [lazuli]: https://www.youtube.com/watch?v=S-a99Ds3NHI
