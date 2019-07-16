@@ -25,4 +25,4 @@ Hey there. This site mainly exists because it was fun to make, and it's sparsely
 
 <div style="margin-bottom: 40px"></div>
 
-[me]: /assets/images/me.png
+[me]: /assets/images/me.jpg
