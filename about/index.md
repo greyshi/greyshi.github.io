@@ -12,13 +12,12 @@ title: about
 **age**: twenties  
 **location**: seattle  
 **job**: software developer  
-**music**: hip hop, alternative, post-rock, electronic  
-**favorite comedians**: doug stanhope, louis c.k., mitch hedberg, bill hicks, dave chapelle  
-**burrito**: brown rice, mixed beans, extra fajita veggies, pico + hot salsa, guacamole, lettuce
+**music**: hip hop, alternative / indie rock, classical, jazz
+**burrito**: brown rice, black beans, extra fajita veggies, pico + medium salsa, chicken, a little cheese, and guacamole
 
 ---
 
-Hey there. This site mainly exists because I thought it'd be fun to make (it was!), but it's also sporadically updated with photos and short rants.
+Hey there. This site mainly exists because it was fun to make, and it's sparsely updated with miscellaneous content.
 
 <div style="margin-bottom: 40px"></div>
 
